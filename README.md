@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SkoKjeksen
-- 👀 I’m interested in C/C++ and Embedded development
+- 👀 I’m interested in Python, C/C++ and Embedded development
 
 
 
